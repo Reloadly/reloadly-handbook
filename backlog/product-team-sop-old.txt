@@ -1,0 +1,113 @@
+## Bug reporting 
+
+<br/>
+
+ Bug is first identified and diagnosed by 2nd and 3rd level of support. <br/><br/>  Contact the product Manager or Associate product manager and explain the bug <br/><br/>  A bug story must be created and prioritized in the sprint using the Jira project management tool <br/><br/>  The ticket needs to be explain and reported to engineering team and must be solved within two hours <br/><br/>  The fix will be communicated to stakeholders through the Slack deployment channel and will be updated in the product/engineering team release notes <br/><br/>  The engineering and product team would prioritize these over business as usual (BAU) work.
+
+<br/>
+<br/>
+
+## Unplanned feature requests  
+
+<br/>
+
+Contact the Product Manager or Associate product Manager for an inception call <br/><br/>  An Epic and a story must be created depending on the complexity of the request. <br/><br/>  At a grooming meeting held biweekly, this requirement will be presented to the engineering team to define deep technical solutions and agree on story points with PMs. <br/><br/>  Depending on the technical debt that product and engineering have, this requirement will be prioritized in the following sprints. <br/><br/>  The development once is finished and tested will be communicated to stakeholders through the Slack deployment channel and will be updated in the product / engineering Release Notes
+
+<br/>
+<br/>
+
+##  Planned feature development
+
+<br/>
+
+ Vision and strategy must be defined every quarter <br/><br/>  A product requirements document has to be created and discussed with the engineering team to define complexity and define next steps. <br/><br/>  The engineering team responsible will be assigned to the specific project with Chief Architect and CTO.  <br/><br/>  If the requirements involve 3rd party solutions, the Chief Architect must be involved in the conversation with providers <br/><br/>  UX/UI mockups or prototypes must be ready and approved by PMs <br/><br/>  A biweekly grooming meeting every Friday this requirement will be presented to engineering team to define deep technical solutions and agree on story points with PMs. <br/><br/>  The stories will be prioritized in the upcoming sprints. <br/><br/>  The development once is finished and tested will be communicated to stakeholders through the Slack deployment channel and will be updated in the product/engineering Release Notes
+
+<br/>
+<br/>
+
+##   SCRUM Methodologies 
+
+<br/>
+
+Framework for developing, delivering, and sustaining products in a complex environment, with an initial emphasis on software development, although it has been used in other fields including research, sales, marketing and advanced technologies. <br/><br/>  Used by the product development engineering team.   |
+|Kanban Methodologies    |  Method to manage and improve work across human systems. This approach aims to manage work by balancing demands with available capacity, and by improving the handling of system level bottlenecks. <br/><br/> Used by the integration engineering team. 
+
+<br/>
+<br/>
+
+##   Sprint
+
+<br/>
+
+ Sprints are timeboxed periods of one week to one month, during which a product owner, scrum master, and scrum team work to complete a specific product addition. <br/><br/>  Two week periods beginning every Tuesday where all priorities are established in the sprint planning meeting.
+
+<br/>
+<br/>
+
+##   Sprint planning
+
+<br/>
+
+Biweekly deliveries every Tuesday.<br/><br/>  PMs and CPO define the next stories to be prioritized for the next two weeks. <br/><br/>  All the stories in the best case scenario needs to be groomed before the sprint. <br/><br/>  All engineering and product team members are part of the meeting. <br/><br/>  A confluence document is established and agreed with all sprint planning participants.
+
+<br/>
+<br/>
+
+##   Retrospective  
+
+<br/>
+
+A retrospective is a meeting held after a product ships to discuss what happened during the product development and release process, with the goal of improving things in the future based on those learnings and conversations. <br/><br/>  For retrospectives, [Retool.io]( https://retrotool.io/)  a productivity tool for collaborations is used. <br/><br/>  Retrospectives are performed biweekly every Monday  a day before the end of each sprint. <br/><br/>  Every engineering and product team member is part of each retrospective meeting. <br/><br/>  During each retrospective, information on issues and key points discussed and agreed amongst team members are stored in a centralized Google sheet. 
+
+<br/>
+<br/>
+
+##   Daily meeting (Standup)  
+
+<br/>
+
+The daily scrum is a 15minute timeboxed event features the engineering and product teams. Its main purpose is to plan for the next 24 hours. <br/><br/> PMs and engineering team split the daily meeting in two meetings <br/><br/>  - Airtime integrations. <br/>  - Product software development. <br/><br/> Daily standups revolve around these three questions which are answered by each participant <br/><br/>  - What did you do yesterday? <br/> - What will you do today? <br/>  - Do you have any blockers?
+
+<br/>
+<br/>
+
+##   Refinement meeting  
+
+<br/>
+
+ This is an optional meeting between the engineering and product team. <br/><br/>  This process is done during every sprint and hence called a sprint refinement as well. <br/><br/>  This meeting also applies when a change is brought forward by a member of the leadership team appears or from business perspective the development needs to change.
+
+<br/>
+<br/>
+
+##  Product features deployments to production environment. 
+
+<br/>
+
+All deployments to the production environment will be considered approved as long as they have passed the code review and quality assurance (QA) stage. <br/><br/>  From Monday to Thursday all deployments to PROD environments can be performed without any limitation. <br/><br/>  All Fridays until 13:00 IST production deployments are allow to be performed. If a important deployment needs to be done after this time, it will be necessary that approval is gotten from the Chief Product Officer, Chief Technology Officer or the Chief Architect
+
+<br/>
+<br/>
+
+##  Product features deployments to production environment. 
+
+<br/>
+
+All deployments to the production environment will be considered approved as long as they have passed the code review and quality assurance (QA) stage. <br/><br/>  From Monday to Thursday all deployments to PROD environments can be performed without any limitation. <br/><br/>  All Fridays until 13:00 IST production deployments are allow to be performed. If a important deployment needs to be done after this time, it will be necessary that approval is gotten from the Chief Product Officer, Chief Technology Officer or the Chief Architect
+
+<br/>
+<br/>
+
+##  New airtime routes updates
+
+<br/>
+
+Contact the Associate Product Manager to prioritize and provide updates to the integration engineering team <br/><br/>  Establish a communication channel with the operator/provider tech team. <br/><br/>  API documentation must be ready before the integration is prioritized. <br/><br/>  For the integration, a task will be created and logged on Jira by the Associate Product Manager <br/><br/>  When an integration task is completed and deployed to the production environment, it will be considered approved as long as it has passed the code review and QA stage. <br/><br/>  The integration engineering team must create a checklist complete with all information about the integration. This will be reviewed by the Associate Product Manager and the integration lead. <br/><br/>  Once an integration is finished and tested successfully, it will be communicated to the necessary stakeholders through communication channels (Reloadly's deployment channel on Slack). It will also be updated in the product / engineering release notes 
+
+
+
+<br/>
+<br/>
+<br/>
+
+ # IMAGES MISSING
