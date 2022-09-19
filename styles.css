@@ -13,19 +13,19 @@ body {
     margin: auto auto auto 15vw;
 }
 
-.contributors {
+.contributor {
     width: fit-content;
     margin: 0 10vw auto auto;
 }
 
-.contributors h3 {
+.contributor h3 {
     width: 20vw;
 }
 
-.contributors span {
+.contributor span {
     display: flex;
 }
-.contributors span img {
+.contributor span img {
     width: 60px;
     border-radius: 30px;
 }
