@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Futura";
+    src: url("./fonts/futura-pt-book\ \(1\).otf") format("opentype");
+    }
+
+body {
+    display: flex;
+    font-size: 18px;
+    font-family: 'Futura';
+}
+
+.content {
+    margin: auto auto auto 15vw;
+}
+
+.contributors {
+    width: fit-content;
+    margin: 0 10vw auto auto;
+}
+
+.contributors h3 {
+    width: 20vw;
+}
+
+.contributors span {
+    display: flex;
+}
+.contributors span img {
+    width: 60px;
+    border-radius: 30px;
+}
