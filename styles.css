@@ -10,12 +10,12 @@ body {
 }
 
 .content {
-    width: 70vw;
+    width: 65vw;
     margin: auto auto auto 15vw;
 }
 
 .content img {
-    width: 25vw;
+    width: 50vw;
 }
 
 .contributor {
