@@ -11,11 +11,11 @@ body {
 
 .content {
     width: 65vw;
-    margin: auto auto auto 15vw;
+    margin: auto 5vw auto 15vw;
 }
 
 .content img {
-    width: 50vw;
+    width: 60vw;
 }
 
 .contributor {
