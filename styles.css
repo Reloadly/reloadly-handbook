@@ -14,6 +14,9 @@ body {
     margin: auto 5vw auto 10vw;
 }
 
+.content ul {
+    width: 30vw;
+}
 .content img {
     width: 60vw;
 }
